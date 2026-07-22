@@ -69,8 +69,16 @@ border-bottom:1px solid rgba(255,255,255,.1);
     display:flex;
     justify-content:space-between;
     align-items:center;
-    padding:80px;
-    min-height:90vh;
+
+    min-height:100vh;
+
+    padding:120px 80px 60px;
+
+    max-width:1400px;
+
+    margin:0 auto;
+
+    gap:60px;
 }
 
 .hero-text{
